@@ -1,4 +1,4 @@
-FROM TeamLionX/LionX:master
+FROM teamlionx/lionx:master
 
 RUN git clone -b master https://github.com/TheTeamLionX/LionX /home/userbot/
 WORKDIR /home/userbot
